@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# code for radar moving target parameter estimation
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Func_Keystone.m : It includes a keystone algorithm function that implements distance correction on data after pulse compression
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
